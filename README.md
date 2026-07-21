@@ -120,7 +120,8 @@ The application includes:
 > Add your application screenshot here.
 
 ```
-images/dashboard.png
+images/dashboard.JPG
+images/dashboard1.JPG
 ```
 
 ---
