@@ -125,17 +125,11 @@ images/dashboard.png
 
 ---
 
-## Model Performance
+## 📈 Model Performance
 
-> Add screenshots here.
-
-```
-images/accuracy_comparison.png
-
-images/confusion_matrix.png
-```
-
----
+| Accuracy Comparison | Confusion Matrix |
+|---------------------|------------------|
+| ![](images/accuracy_comparison.png) | ![](images/confusion_matrix.png) |
 
 # 📂 Project Structure
 
