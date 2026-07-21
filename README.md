@@ -115,16 +115,13 @@ The application includes:
 
 # 🖼️ Application Preview
 
-## Prediction Dashboard
+## 🖼️ Prediction Dashboard
 
-> Add your application screenshot here.
+| Dashboard | Prediction |
+|-----------|------------|
+| ![](images/dashboard.JPG) | ![](images/dashboard1.JPG) |
 
-```
-images/dashboard.JPG
-images/dashboard1.JPG
-```
-
----
+-----
 
 ## 📈 Model Performance
 
